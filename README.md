@@ -28,7 +28,7 @@ Type 4 metal hobby blade | 1 |
 ### Toolhead
 - [Hotend mounts](https://github.com/thunderkeys/Filametrix-BT/tree/main/STLs/Hotend%20Mounts) (front and rear) - one pair, specific to your hotend
 - [Latch with ECAS support](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_latch_ecas.stl)
-- Main body - [single](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_single_switch.stl) or [dual](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_dual_switch.stl) filament sensors
+- Main body - [single](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_single_switch.stl) or [dual](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_dual_switch.stl) filament sensor options. LDO kits come with parts to build the dual filament sensor version, so we recommend that but if you only have GPIO pins for a single sensor, the option is provided for that as well.
 - If you are not on an older Clockwork 2 before official release you may also need a new [motor plate](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/motor_plate.stl)
 - [cutting arm](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/%5Ba%5D_cutting_arm.stl)
 - [knife holder](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/%5Ba%5D_knife_holder.stl)
