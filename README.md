@@ -47,7 +47,7 @@ Updated instructions to come.
 
 ## AFC Configuration
 
-Now that Filametrix-BT is installed, we need to configure the AFC software for the locations to actuate the cutter arm.
+Now that Filametrix-BT is installed, we need to configure the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) for the locations to actuate the cutter arm.
 
 - Home all printer axes (e.g., using G28)
 - Use mainsail/fluidd/etc controls to jog the toolhead near the cutting pin.  This will likely be near X minimum (e.g. X=15-20) and Y maximum if installed in the default location.
