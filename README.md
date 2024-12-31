@@ -36,7 +36,7 @@ Type 4 metal hobby blade | 1 |
 
 #### Cutting point on gantry
 - [depressor_mount](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/depressor_mount.stl)
-- [depressor](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/depressor.stl))))
+- [depressor](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/depressor.stl)
 
 ## Assembly and Installation
 Updated instructions to come.
