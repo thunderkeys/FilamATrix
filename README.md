@@ -26,17 +26,17 @@ Type 4 metal hobby blade | 1 |
 
 ## Files to print
 ### Toolhead
-- Hotend mounts (front and rear) - specific to your hotend
-- [a]\_latch_ecas.stl
-- main_body_single_switch.stl or main_body_dual_switch.stl
-- If you are not on an older Clockwork 2 before official release you may also need a new motor plate
-- [a]\_cutting_arm.stl
-- [a]\_knife_holder.stl
-- If this is a new build, you will also need to print the Stealthburner front face, guidler halves, shuttle and pcb mount.
+- [Hotend mounts](https://github.com/thunderkeys/Filametrix-BT/tree/main/STLs/Hotend%20Mounts) (front and rear) - one pair, specific to your hotend
+- [Latch with ECAS support](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_latch_ecas.stl)
+- Main body - [single](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_single_switch.stl) or [dual](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/main_body_dual_switch.stl) filament sensors
+- If you are not on an older Clockwork 2 before official release you may also need a new [motor plate](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/motor_plate.stl)
+- [cutting arm](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/%5Ba%5D_cutting_arm.stl)
+- [knife holder](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/%5Ba%5D_knife_holder.stl)
+- If this is a new build, you will also need to print the Stealthburner [https://github.com/thunderkeys/Filametrix-BT/tree/main/STLs/Stealthburner](front face), [guidler](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_guidler_a.stl) [halves](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_guidler_b.stl), [shuttle](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_shuttle.stl), [pcb spacer](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/CW2/%5Ba%5D_pcb_spacer.stl) and [cable cover](https://github.com/thunderkeys/Filametrix-BT/tree/main/STLs/CW2).
 
 #### Cutting point on gantry
-- depressor_mount.stl
-- depressor.stl
+- [depressor_mount](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/depressor_mount.stl)
+- [depressor](https://github.com/thunderkeys/Filametrix-BT/blob/main/STLs/depressor.stl))))
 
 ## Assembly and Installation
 Updated instructions to come.
