@@ -13,18 +13,18 @@ Filametrix-BT consolidates the CAD into a single file and provides a reorganized
 ## Bill of Materials
 LDO kits come with all of the physical hardware necessary for Filametrix-BT, but below is the BOM needed to build it.
 
-Item    | Quantity | Notes
+Item    | Quantity | Notes | Source
 -----   | -------- | ------
 Loctite or Vibratite | 1        | Loctite Blue 242 or Vibra-Tite VC-3 
-M3 nut  | 2 | DIN934
-M3 washer | 2 | 0.5mm thickness
-M3x16 BHCS | 1 |
-M3x18 SHCS | 1 |
-M3x5x4 Threaded Heatset insert | 4 |
-M3x18 FHCS | 1 |
-M3x8 SHCS | 1 |
-M3x6, M3x10 or M3x12 FHCS | 2 | 6mm - no backers, 10mm - titanium backers, 12mm - MGN9 rails
-M2.5x16 | 1 | 15-18mm will work
+M3 nut  | 2 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
+M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
+M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.html)
+M3x18 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
+M3xD5xL4 Threaded Heatset insert | 4 | [AliExpress](https://www.aliexpress.us/item/2255800046543591.html)
+M3x18 FHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
+M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
+M3x6, M3x10 or M3x12 FHCS | 2 | 6mm - no backers, 10mm - titanium backers, 12mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
+M2.5x16 | 1 | 15-18mm will work | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.4mm x 4mm x 15mm spring | 1 | A spring from a common ballpoint pen can also work
 Type 4 metal hobby blade | 1 |
 
