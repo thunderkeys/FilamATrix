@@ -13,8 +13,8 @@ Filametrix-BT consolidates the CAD into a single file and provides a reorganized
 ## Bill of Materials
 LDO kits come with all of the physical hardware necessary for Filametrix-BT, but below is the BOM needed to build it.
 
-Item    | Quantity | Notes | Source
------   | -------- | ------ |
+ Item    | Quantity | Notes | Source
+ ----   | -------- | ------ | -----
 Loctite or Vibratite | 1        | Loctite Blue 242 or Vibra-Tite VC-3  |
 M3 nut  | 2 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
 M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
