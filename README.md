@@ -6,6 +6,8 @@ Filametrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurn
 
 Filametrix-BT consolidates the CAD into a single file and provides a reorganized repository with a clear structure of what files are needed to print.  Additionally, the Hotend mounts have been modified by the ArmoredTurtle team to support the chamfered M3 nut that is included with the LDO BoxTurtle kits.
 
+![](https://raw.githubusercontent.com/thunderkeys/Filametrix-BT/refs/heads/main/images/m3_nut_hotend.png)
+
 ## Bill of Materials
 LDO kits come with all of the physical hardware necessary for Filametrix-BT, but below is the BOM needed to build it.
 
