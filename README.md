@@ -1,5 +1,7 @@
 # Filametrix-BT Mod
 
+![](https://raw.githubusercontent.com/thunderkeys/Filametrix-BT/refs/heads/main/images/filametrix-bt.png)
+
 This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [LDO](https://ldomotors.com) [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
 n
 Filametrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurner hotend and Clockwork 2 Extruder](https://github.com/VoronDesign/Voron-Stealthburner/) to support a kinematic-actuated cutting blade for cleaner, more reliable automated filament changes that also eliminates the need for tip forming.
