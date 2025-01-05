@@ -62,3 +62,5 @@ Now that FilamAtrix is installed, we need to configure the [AFC Klipper Add-On](
 - [hartk](https://github.com/hartk1213) for the idea to use an M3 threaded heat insert for the hotend mount
 - [sorted01](https://github.com/sorted01) for the original [Filametrix](https://github.com/sorted01/Filametrix) project - you can [donate here](https://www.paypal.com/paypalme/sorted01) to him if interested
 - [IRTrail](https://github.com/IRTrail) for the [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) project (now archived as read-only, as of 2024-12-12).
+- [VORON Design](https://www.vorondesign.com) for Stealthburner and Clockwork2
+- [JaredC01](https://github.com/JaredC01) for Galileo2
