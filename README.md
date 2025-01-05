@@ -1,7 +1,7 @@
 # FilamAtrix Mod
 
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix-cw2.png)
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix-g2e.png)
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png)
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png)
 
 This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
 n
