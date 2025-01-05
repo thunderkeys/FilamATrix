@@ -1,6 +1,6 @@
 # FilamAtrix Mod
 
-| <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> | <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png" width=40%> |
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png" width=40%>
 
 This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
 n
