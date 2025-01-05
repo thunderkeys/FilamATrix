@@ -24,7 +24,7 @@ BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hard
 
  Item    | Quantity | Notes | Source
  ----   | -------- | ------ | -----
-Loctite or Vibratite | 1        | Loctite Blue 242 or Vibra-Tite VC-3  | [Amazon Loctite](https://www.amazon.com/Loctite-Heavy-Duty-Threadlocker-Single/dp/B000I1RSNS) [Amazon Vibratite](https://www.amazon.com/Vibra-TITE-213-Threadmate-Threadlocker-Degree/dp/B0088YEGXM)
+Loctite or Vibratite | 1        | Loctite Blue 242 or Vibra-Tite VC-3  | [Amazon Loctite](https://www.amazon.com/Loctite-Heavy-Duty-Threadlocker-Single/dp/B000I1RSNS) \| [Amazon Vibratite](https://www.amazon.com/Vibra-TITE-213-Threadmate-Threadlocker-Degree/dp/B0088YEGXM)
 M3 nut  | 2 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
 M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
 M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.html)
@@ -35,7 +35,7 @@ M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.h
 M3x6, M3x10 or M3x12 FHCS | 2 | 6mm - no backers, 10mm - titanium backers, 12mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.4mm x 4mm x 15mm spring | 1 | A spring from a common ballpoint pen can also work | [Amazon](https://www.amazon.com/gp/product/B0C33B7ZK1)
-Type 4 metal hobby blade or OLFA 8mm chisel blade | 1 | | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU)
+Type 4 metal hobby blade or OLFA 8mm chisel blade | 1 | | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU)
 
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/LDO).  
