@@ -10,9 +10,9 @@ FilamAtrix consolidates the CAD for Filametrix and G2E-Filametrix into a single 
 
 In addition, the print files have been modified from the upstream repo with the following changes:
 
-- Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea! <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
+- Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
 
-- On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the filament towards the extruder gears and make insertion less position dependent. <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/cw2_section_analysis.png" width=50%>
+- On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the filament towards the extruder gears and make insertion less position dependent.<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/cw2_section_analysis.png" width=50%>
 
 - Cutting arm has been modified to support a full length M2.5x16 FHCS.
 
