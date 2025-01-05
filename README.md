@@ -12,11 +12,12 @@ FilamAtrix consolidates the CAD for Filametrix and G2E-Filametrix into a single 
 In addition, the print files have been modified from the upstream repo with the following changes:
 
 - Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png)
 - On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the filament to the extruder gears.
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/cw2_section_analysis.png)
 - Cutting arm has been modified to support a fully length M3x16 FHCS.
 - Inclusion of the Beefy Depressor mount as the default.
 
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png)
 
 ## Bill of Materials
 BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hardware necessary for FilamAtrix, but below is the BOM needed to build it.
