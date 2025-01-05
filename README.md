@@ -1,6 +1,7 @@
 # FilamAtrix Mod
 
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filametrix-bt.png)
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix-cw2.png)
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix-g2e.png)
 
 This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
 n
@@ -15,7 +16,7 @@ In addition, the print files have been modified from the upstream repo with the 
 - Cutting arm has been modified to support a fully length M3x16 FHCS.
 - Inclusion of the Beefy Depressor mount as the default.
 
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heatset_hotend.png)
+![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png)
 
 ## Bill of Materials
 BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hardware necessary for FilamAtrix, but below is the BOM needed to build it.
