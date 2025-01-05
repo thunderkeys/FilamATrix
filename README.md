@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png" width=40%>
 
-This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
+This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users (but use of BoxTurtle/AFC are not required - this mod can be used anywhere Filametrix/G2E-Filametrix are).
 
 FilamAtrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurner hotend and Clockwork 2 Extruder](https://github.com/VoronDesign/Voron-Stealthburner/) or [Galileo 2 Extruder](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder) to support a kinematic-actuated cutting blade for cleaner, more reliable automated filament changes that also eliminates the need for tip forming.
 
