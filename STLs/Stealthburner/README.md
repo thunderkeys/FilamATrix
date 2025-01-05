@@ -4,7 +4,7 @@ You will need a set (front and rear) 'Printheads'of the modified Filamatrix hote
 Current supported hotends are:
 
 - [Revo Voron](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/revo_voron)
-- Phaetus Dragon [HF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_hf]), [UHF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_uhf), [UHF mini](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_uhf_mini)
+- Phaetus Dragon [HF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_hf), [UHF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_uhf), [UHF mini](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/dragon_uhf_mini)
 - Phaetus Rapido [HF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/rapido_hf), [HF v2](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/rapido_hf_v2), [UHF](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/rapido_uhf), [UHF v2](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/rapido_uhf_v2)
 
 If this is a new build, you will also need the rest of the Stealthburner parts.
