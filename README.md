@@ -1,7 +1,6 @@
 # FilamAtrix Mod
 
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png)
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png)
+| <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> | <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/filamatrix_g2e.png" width=40%> |
 
 This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users.
 n
@@ -12,9 +11,8 @@ FilamAtrix consolidates the CAD for Filametrix and G2E-Filametrix into a single 
 In addition, the print files have been modified from the upstream repo with the following changes:
 
 - Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png)
-- On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the filament to the extruder gears.
-![](https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/cw2_section_analysis.png)
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
+- On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the <img src="https://raw.githubusercontent.com/thunderkeys/FilamAtrix/refs/heads/main/images/cw2_section_analysis.png" width=50%>
 - Cutting arm has been modified to support a fully length M3x16 FHCS.
 - Inclusion of the Beefy Depressor mount as the default.
 
@@ -48,10 +46,10 @@ Coming soon
 Now that FilamAtrix is installed, we need to configure the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) for the locations to actuate the cutter arm.
 
 - Home all printer axes (e.g., using G28)
-- Use mainsail/fluidd/etc controls to jog the toolhead near the cutting pin.  This will likely be near X minimum (e.g. X=15-20) and Y maximum if installed in the default location.
+- Use mainsail/fluidd/klipperscreen/etc controls to jog the toolhead near the cutting pin.  This will likely be near X minimum (e.g. X=15-20) and Y maximum if installed in the default location.
 - Move the toolhead in 1mm increments until you are just about to depress the pin.  Make note of these coordinates.
 - Continue to move the toolhead in 1mm increments until the cutting arm is fully depressed. Make a note of the fully depressed coordinates.
-- Update ``AFC/AFC_Macro_Vars.cfg`` with these values.
+- Update ``AFC/AFC_Macro_Vars.cfg`` with these values as per the comments in the ``_AFC_CUT_TIP_VARS`` section.
 
 
 ## Acknowledgements
