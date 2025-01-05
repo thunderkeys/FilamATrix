@@ -10,7 +10,7 @@ If this is a new build, or you are using a non-release version of Galileo 2, you
 - [\[a\]\_front_half_g2.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/%5Ba%5D_front_half_g2.stl)
 - [\[a\]\_rear_half_g2.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/%5Ba%5D_rear_half_g2.stl)
 - [cable_cover.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/cable_cover.stl)
-- [idler_bearing_cover.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/idler_bearing_cover.stl0
+- [idler_bearing_cover.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/idler_bearing_cover.stl)
 - [rear_body.stl](https://github.com/JaredC01/Galileo2/blob/main/galileo2_extruder/stl/rear_body.stl)
 
 If using cable chains, ONE of:
