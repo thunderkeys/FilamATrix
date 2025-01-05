@@ -13,3 +13,5 @@ If this is a new build, or you are using a non-release version of Clockwork 2, y
 - [\[a\]\_guidler_a.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_guidler_b.stl)
 - [\[a\]\_latch_shuttle.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_latch_shuttle.stl)
 - [motor_plate.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/motor_plate.stl)
+- [cw2_captive_pcb_cover.stl](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_captive_pcb_cover.stl) if using Nitehawk-SB
+- [chain_anchor_2hole.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_2hole.stl) or [chain_anchor_3hole.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_3hole.stl) if using calbe chains
