@@ -53,6 +53,7 @@ Now that FilamAtrix is installed, we need to configure the [AFC Klipper Add-On](
 - Use mainsail/fluidd/klipperscreen/etc controls to jog the toolhead near the cutting pin.  This will likely be near X minimum (e.g. X=15-20) and Y maximum if installed in the default location.
 - Move the toolhead in 1mm increments until you are just about to depress the pin.  Make note of these coordinates.
 - Continue to move the toolhead in 1mm increments until the cutting arm is fully depressed. Make a note of the fully depressed coordinates.
+- Ensure ``tool_cut: true`` is set in ``AFC/AFC.cfg`` (it is also recommended to enable the park, kick, poop and wipe macros)
 - Update ``AFC/AFC_Macro_Vars.cfg`` with these values as per the comments in the ``_AFC_CUT_TIP_VARS`` section.
 
 
