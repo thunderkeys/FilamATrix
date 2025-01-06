@@ -7,6 +7,7 @@ If you are already running a stock LDO VORON V2.4r2/Trident Rev D with a Revo Vo
 - [\[a\]\_cutting_arm_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_clockwork2.stl)
 - [\[a\]\_knife_holder_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_knife_holder_clockwork2.stl)
 - [\[a\]\_latch_ecas.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_latch_ecas.stl) (this replaces the upstream \[a\]\_latch.stl Clockwork2 file)
+- [cable_cover_ebb.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/cable_cover_ebb.stl)
 - [main_body_clockwork2_single_switch.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/main_body_clockwork2_single_switch.stl) (this replaces the upstream main_body.stl Clockwork2 file)
 - [Revo Voron](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner/Printheads/revo_voron) (these replace the upstream Revo Voron printhead files)
 
