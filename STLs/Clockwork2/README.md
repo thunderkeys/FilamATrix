@@ -14,7 +14,6 @@ If this is a new build, you will also need to print these upstream Clockwork2 fi
 - [\[a\]\_guidler_b.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_guidler_b.stl)
 - [\[a\]\_latch_shuttle.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_latch_shuttle.stl)
 - [motor_plate.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/motor_plate.stl)
-- [cw2_captive_pcb_cover.stl](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_captive_pcb_cover.stl) if using Nitehawk-SB
 - [chain_anchor_2hole.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_2hole.stl) or [chain_anchor_3hole.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_3hole.stl) if using cable chains
 
 If you are using an older, pre-release version of Clockwork 2 you will also need to print a new [motor_plate.stl](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/motor_plate.stl).  In the image below, pre-release is in red, current release is green. See the circled areas for the main change areas to inspect.
