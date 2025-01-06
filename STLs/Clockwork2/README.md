@@ -3,7 +3,6 @@
 Print one each of:
 
 - [\[a\]\_cutting_arm_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_clockwork2.stl) OR [\[a\]\_cutting_arm_short_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_short_clockwork2.stl)
-- [\[a\]\_knife_holder_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_knife_holder_clockwork2.stl)
 - [\[a\]\_latch_ecas.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_latch_ecas.stl)
 - [main_body_clockwork2_single_switch.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/main_body_clockwork2_single_switch.stl) (recommended) OR [main_body_clockwork2_dual_switch.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/main_body_clockwork2_dual_switch.stl)
 - [cable_cover_ebb.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/cable_cover_ebb.stl) - the FilamAtrix CW2 main body has more room for RP2040 SBB board plugs, and as such requires a newer cable cover mount.
