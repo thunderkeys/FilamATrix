@@ -4,6 +4,7 @@ If you are already running a stock LDO VORON V2.4r2/Trident Rev D with a Revo Vo
 
 - [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/beefy_depressor_mount.stl)
 - [beefy_depressor.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/beefy_depressor.stl)
+- [razor_safety_cap.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/razor_safety_cap.stl)
 - [\[a\]\_cutting_arm_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_clockwork2.stl)
 - [\[a\]\_knife_holder_clockwork2.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_knife_holder_clockwork2.stl)
 - [\[a\]\_latch_ecas.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/Clockwork2/%5Ba%5D_latch_ecas.stl) (this replaces the upstream \[a\]\_latch.stl Clockwork2 file)
