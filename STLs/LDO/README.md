@@ -1,6 +1,6 @@
 ## LDO Stock Kits
 
-If you are already running a stock LDO VORON V2.4r2/Trident Rev D with a Revo Voron hotend, print the below files.
+If you are already running a stock LDO VORON V2.4r2/Trident Rev D with a Revo Voron hotend, print the below files (or as a [complete zip file](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/LDO/LDO.zip)).
 
 - [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/beefy_depressor_mount.stl)
 - [beefy_depressor.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/beefy_depressor.stl)
