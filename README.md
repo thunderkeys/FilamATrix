@@ -47,6 +47,7 @@ Type 4 metal hobby blade or OLFA 8mm chisel blade | 1 | | [Amazon Hobby 4](https
 - [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
 - Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Clockwork2) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/galileo2_extruder)
 - [Stealthburner modified parts](https://github.com/thunderkeys/FilamAtrix/tree/main/STLs/Stealthburner) - pick the set (front+rear) specific to your Printhead/Hotend
+- [cutting jig for your hotend](https://github.com/thunderkeys/FilamAtrix/blob/main/STLs/README.md)
 
 If you are using the OLFA chisel blades, you may need to slightly scale the knife holder up in the Z dimension in your slicer software to accomodate the wider tang. A good starting point for me was scaling Z to 105% (8.4mm total height).
 
