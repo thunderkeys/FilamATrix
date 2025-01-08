@@ -68,7 +68,7 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 If you are using the OLFA KBF-4/5 chisel blades, you may need to slightly scale the knife holder up in the Z dimension in your slicer software to accomodate the wider tang. A good starting point for me was scaling Z to 105% (8.4mm total height).
 
 ## Assembly and Installation
-Coming soon
+Please review this [interactive manual](https://armoredturtle.xyz/manual.html?manual=filamatrix) for assembly and installation instructions of FilamATrix.
 
 ## Preparing and mounting of the Beefy Depressor
 
