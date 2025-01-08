@@ -41,6 +41,7 @@ M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.ht
 Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need to be trimmed to length (approximately 26mm) after purchase | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
 D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
 5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
+M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendation is two screws (one sensor) |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
 PTFE Wire | Build-depedent | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here.
 
 
