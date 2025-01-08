@@ -2,13 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_g2e.png" width=40%>
 
-This an adapation of the [Filametrix](https://github.com/sorted01/Filametrix) mod for [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) Kit users (but use of BoxTurtle/AFC are not required - this mod can be used anywhere Filametrix/G2E-Filametrix are).
+FilamATrix is a Stealthburner toolhead filament cutting mod created specifically for the ArmoredTurtle [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) project.  It is an adaptation and cleanup of the [Filametrix](https://github.com/sorted01/Filametrix) and [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) mods. Note the slightly different spelling change - all other documentation within this respository refer to this specific modification.
+
+However, use of BoxTurtle/AFC are not required - this mod can be used anywhere the upstream Filametrix/G2E-Filametrix are).
 
 FilamATrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurner hotend and Clockwork 2 Extruder](https://github.com/VoronDesign/Voron-Stealthburner/) or [Galileo 2 Extruder](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder) to support a kinematic-actuated cutting blade for cleaner, more reliable automated filament changes that also eliminates the need for tip forming.
 
-FilamATrix consolidates the CAD for Filametrix and G2E-Filametrix into a single file and provides a reorganized repository with a clear structure of what files are needed to print.  
+FilamATrix consolidates the CAD for Filametrix and G2E-Filametrix into a single file and provides a reorganized repository with a clear structure of what files are needed to print.  While both extruders are provided as an option, our recommendation is to use Clockwork 2 - we find users have had the most success with it. The assembly instructions and manual only cover Clockwork 2.
 
-In addition, the print files have been modified from the upstream repo with the following changes:
+The print files for FilamATrix have been modified from the original projects with the following changes:
 
 - Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
 
@@ -36,7 +38,11 @@ M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16m
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
 M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.5mm x 4mm x 25mm coil spring | 1 | A spring from a common ballpoint pen can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
-Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
+Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need to be trimmed to length (approximately 26mm) after purchase | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
+D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
+5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
+PTFE Wire | Build-depedent | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here.
+
 
 ## Print settings
 All files are to be printed using 'VORON Standard' parts settings/filaments:
