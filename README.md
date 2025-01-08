@@ -46,12 +46,22 @@ Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | | [Amazon Hobby 
 - [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
 - Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder)
 - [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner) - pick the set (front+rear) specific to your Printhead/Hotend
-- [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md)
+- [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
 
 If you are using the OLFA KBF-4/5 chisel blades, you may need to slightly scale the knife holder up in the Z dimension in your slicer software to accomodate the wider tang. A good starting point for me was scaling Z to 105% (8.4mm total height).
 
 ## Assembly and Installation
 Coming soon
+
+## Mounting of the Beefy Depressor
+
+Depending on your printer you may find it more advantageous to mount the beef depressor at the rear, or at the front.  See below for example mounting locations on an example Voron 2.4 printer gantry.
+
+### Rear
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear2.png" width=40%>
+
+### Front
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front1.png" width=40%>
 
 ## AFC Configuration
 
