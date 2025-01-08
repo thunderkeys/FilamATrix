@@ -61,7 +61,7 @@ Depending on your printer you may find it more advantageous to mount the beef de
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear2.png" width=40%>
 
 ### Front
-<img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front1.png" width=40%>
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_front2.png" width=40%>
 
 ## AFC Configuration
 
