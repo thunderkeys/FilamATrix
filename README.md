@@ -37,6 +37,19 @@ M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/22518326188
 M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.5mm x 4mm x 25mm coil spring | 1 | A spring from a common ballpoint pen can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
 Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
+
+## Print settings
+All files are to be printed using 'VORON Standard' parts settings/filaments:
+
+- 3D Printing Process: Fused Deposition Modeling (FDM)
+- Material: ABS/ASA
+- Layer Height: 0.2mm
+- Extrusion width: Forced 0.4mm
+- Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/LDO).  
 
