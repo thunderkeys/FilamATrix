@@ -53,7 +53,11 @@ If you are using the OLFA KBF-4/5 chisel blades, you may need to slightly scale 
 ## Assembly and Installation
 Coming soon
 
-## Mounting of the Beefy Depressor
+## Preparing and mounting of the Beefy Depressor
+
+Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x16 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
+
+Attach the assembled mount to the gantry using M3 screws (place M3 washers between the screws and the printed part).  The length of the screw will likely be printer-dependent, see above BOM for suggested sizes.
 
 Depending on your printer you may find it more advantageous to mount the beef depressor at the rear, or at the front.  See below for example mounting locations on an example Voron 2.4 printer gantry.
 
