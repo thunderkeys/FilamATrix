@@ -59,6 +59,8 @@ Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin t
 
 Attach the assembled mount to the gantry using M3 screws (place M3 washers between the screws and the printed part).  The length of the screw will likely be printer-dependent, see above BOM for suggested sizes.
 
+Once installed, adjust the height of the pin on the mount and the depth of the screw so it will depress the cutting arm when the toolhead hits against it (going from right to left).
+
 Depending on your printer you may find it more advantageous to mount the beef depressor at the rear, or at the front.  See below for example mounting locations on an example Voron 2.4 printer gantry.
 
 ### Rear
