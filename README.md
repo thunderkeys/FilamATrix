@@ -42,7 +42,8 @@ Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need t
 D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
 5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
 M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendation is two screws (one sensor) |[Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC)
-PTFE Wire | Build-depedent | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here.
+PTFE Wire | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here. |
+Skittles | User-dependent | Optional, but in case you feel like being a completionist while progressing through the manual. | [Amazon](https://www.amazon.com/Skittles-Original-Candy-Ounce-Jar/dp/B08CS147FX)
 
 
 ## Print settings
