@@ -41,14 +41,12 @@ Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | | [Amazon Hobby 
 ## Print settings
 All files are to be printed using 'VORON Standard' parts settings/filaments:
 
-- 3D Printing Process: Fused Deposition Modeling (FDM)
-- Material: ABS/ASA
-- Layer Height: 0.2mm
-- Extrusion width: Forced 0.4mm
-- Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
-- Infill Percentage: 40%
-- Wall Count: 4
-- Solid Top/Bottom Layers: 5
+| | |
+| - | - |
+| **3D Printing Process:** Fused Deposition Modeling (FDM) | **Infill Type:** Grid, Gyroid, Honeycomb, Triangle or Cubic |
+| **Material:** ABS/ASA | **Infill Percentage:** 40% |
+| **Layer Height:** 0.2mm | **Wall Count:** 4 |
+| **Extrusion width:** Forced 0.4mm | **Solid Top/Bottom Layers:** 5 |
 
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/LDO).  
