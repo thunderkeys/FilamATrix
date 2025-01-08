@@ -25,7 +25,7 @@ BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hard
  Item    | Quantity | Notes | Source
  ----   | -------- | ------ | -----
 Loctite or Vibratite | 1        | Loctite Blue 242 or Vibra-Tite VC-3  | [Amazon Loctite](https://www.amazon.com/Loctite-Heavy-Duty-Threadlocker-Single/dp/B000I1RSNS) \| [Amazon Vibratite](https://www.amazon.com/Vibra-TITE-213-Threadmate-Threadlocker-Degree/dp/B0088YEGXM)
-M3 nut  | 2 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
+M3 hex nut | 1 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
 M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
 M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.html)
 M3x18 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
@@ -35,7 +35,7 @@ M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.h
 M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
 M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
-0.4mm x 4mm x 15mm spring | 1 | A spring from a common ballpoint pen can also work | [Amazon](https://www.amazon.com/gp/product/B0C33B7ZK1)
+0.5mm x 4mm x 25mm coil spring | 1 | A spring from a common ballpoint pen can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
 Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/LDO).  
@@ -55,7 +55,7 @@ Coming soon
 
 ## Preparing and mounting of the Beefy Depressor
 
-Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x16 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
+Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x18 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
 
 Attach the assembled mount to the gantry using M3 screws (place M3 washers between the screws and the printed part).  The length of the screw will likely be printer-dependent, see above BOM for suggested sizes.
 
