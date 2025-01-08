@@ -11,7 +11,7 @@ If you are already running a stock LDO VORON V2.4r2/Trident Rev D with a Revo Vo
 - [cable_cover_pcb_w_sensor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/cable_cover_pcb_w_sensor.stl)
 - [main_body_clockwork2_single_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_single_switch.stl) (this replaces the upstream main_body.stl Clockwork2 file)
 - [Revo Voron](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner/Printheads/revo_voron) (these replace the upstream Revo Voron printhead files)
-- [revo_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/revo_ptfe_jig.stl)
+- [revo_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/revo_ptfe_jig.stl)
 
 
 Otherwise, you can use these checklists to determine what to print on a new build if you are starting from scratch:
