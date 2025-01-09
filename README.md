@@ -36,7 +36,7 @@ M3x18 FHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/3256804926092900.
 M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
-M2.5x16 | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
+M2.5x16 SHCS | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.5mm x 4mm x 25mm coil spring | 1 | A spring from a [common ballpoint pen](https://www.amazon.com/U-S-Government-Pen-Medium-Point/dp/B0055KSO3A) can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
 Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need to be trimmed to length (approximately 26mm) after purchase | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
 D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one for AFC, two for HappyHare | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
