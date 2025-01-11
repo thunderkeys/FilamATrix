@@ -4,6 +4,7 @@ Print one each of:
 
 - [\[a\]\_cutting_arm_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/%5Ba%5D_cutting_arm_g2e.stl)
 - [front_body_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/front_body_g2e.stl)
+- [rear_body_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/rear_body_g2e.stl)
 
 If this is a new build, or you are using a non-release version of Galileo 2, you will also need to print these upstream Galileo files, which can be obtained from the [Galileo2 repo](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder):
 
