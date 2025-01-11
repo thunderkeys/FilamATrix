@@ -63,11 +63,9 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 - [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor_mount.stl)
 - [beefy_depressor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor.stl)
 - [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
-- Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder)
+- Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2) (Recommended) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder)
 - [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner) - pick the set (front+rear) specific to your Printhead/Hotend
 - [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
-
-If you are using the OLFA KBF-4/5 chisel blades, you may need to slightly scale the knife holder up in the Z dimension in your slicer software to accomodate the wider tang. A good starting point for me was scaling Z to 105% (8.4mm total height).
 
 ## Assembly and Installation
 Please review this [interactive manual](https://armoredturtle.xyz/manual.html?manual=filamatrix) for assembly and installation instructions of FilamATrix.
