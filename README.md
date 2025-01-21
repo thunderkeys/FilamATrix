@@ -31,6 +31,7 @@ M3 hex nut | 1 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) \
 M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
 M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.html)
 M3x18 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
+M3x20 SHCS | 1 | For Clockwork 2 upper left shroud screw | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3xD5xL4 Threaded Heatset insert | 5 | | [AliExpress](https://www.aliexpress.us/item/2255800046543591.html)
 M3x18 FHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
@@ -69,6 +70,11 @@ All files are to be printed using 'VORON Standard' parts settings/filaments:
 
 ## Assembly and Installation
 Please review this [interactive manual](https://armoredturtle.xyz/manual.html?manual=filamatrix) for assembly and installation instructions of FilamATrix.
+
+One thing to note is that the stock Stealthburner uses M3x25 SHCS for the upper screws securing the shroud to the extruder. The left screw need to be an **M3x20** SHCS on FilamATrix to allow the cutting arm to fully depress.
+
+<img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/sb_left_screw.png" width=40%>
+
 
 ## Preparing and mounting of the Beefy Depressor
 
