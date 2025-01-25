@@ -33,7 +33,7 @@ M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.
 M3x18 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3x20 SHCS | 1 | For Clockwork 2 upper left shroud screw | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3xD5xL4 Threaded Heatset insert | 5 | | [AliExpress](https://www.aliexpress.us/item/2255800046543591.html)
-M3x18 FHCS | 1 | An M3x16 FHCS likely works just fine here too | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
+M3x18 FHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
@@ -78,7 +78,7 @@ One thing to note is that the stock Stealthburner uses M3x25 SHCS for the upper 
 
 ## Preparing and mounting of the Beefy Depressor
 
-Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x18 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
+Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x16 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
 
 Attach the assembled mount to the gantry using M3 screws (place M3 washers between the screws and the printed part).  The length of the screw will likely be printer-dependent, see above BOM for suggested sizes.
 
