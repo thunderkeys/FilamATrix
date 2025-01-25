@@ -33,7 +33,7 @@ M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.
 M3x18 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3x20 SHCS | 1 | For Clockwork 2 upper left shroud screw | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3xD5xL4 Threaded Heatset insert | 5 | | [AliExpress](https://www.aliexpress.us/item/2255800046543591.html)
-M3x18 FHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
+M3x18 FHCS | 1 | An M3x16 FHCS likely works just fine here too | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3x8 SHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624557792.html)
 M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16mm - MGN9 rails | [AliExpress](https://www.aliexpress.us/item/3256804926092900.html)
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
