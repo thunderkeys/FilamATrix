@@ -11,7 +11,7 @@ Current supported hotends are:
 
 If this is a new build, you will also need the rest of the Stealthburner parts.
 
-- If you have a UHF-style hotend, you will need [this updated Stealthburner shroud](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stealthburner_main_body_uhf.stl) if you do not have one already.
+- If you have a UHF-style hotend, you will need [this updated Stealthburner shroud](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/%5Ba%5D_stealthburner_main_body_uhf.stl) if you do not have one already.
 
 All other Stealthburner files should be obtained from the main [VORON Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner/), or via the links below:
 
