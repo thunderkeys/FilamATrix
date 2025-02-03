@@ -10,6 +10,8 @@ FilamATrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurn
 
 FilamATrix consolidates the CAD for Filametrix and G2E-Filametrix into a single file and provides a reorganized repository with a clear structure of what files are needed to print.  While both extruders are provided as an option, our recommendation is to use Clockwork 2 - we find users have had the most success with it. The assembly instructions and manual only cover Clockwork 2.
 
+Clockwork 2 supports two toolhead sensors, but some users may only be able to support one due to limited GPIO on the toolhead, so our default recommendation is just the pre-extruder sensor.
+
 The print files for FilamATrix have been modified from the original projects with the following changes:
 
 - Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
@@ -41,9 +43,9 @@ M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/22518326188
 M2.5x16 SHCS | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.5mm x 4mm x 25mm coil spring | 1 | A spring from a [common ballpoint pen](https://www.amazon.com/U-S-Government-Pen-Medium-Point/dp/B0055KSO3A) can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
 Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need to be trimmed to length (approximately 26mm) after purchase | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
-D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one for AFC, two for HappyHare | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
-5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one for AFC, two for HappyHare |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
-M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendation is two screws (one sensor) for AFC, four screws (two sensors) for HappyHare |[Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC)
+D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
+5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
+M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendation is two screws (one sensor) |[Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC)
 PTFE Wire | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here. |
 Skittles | User-dependent | Optional, but in case you feel like being a completionist while progressing through the manual. | [Amazon](https://www.amazon.com/Skittles-Original-Candy-Ounce-Jar/dp/B08CS147FX)
 
