@@ -22,6 +22,26 @@ The print files for FilamATrix have been modified from the original projects wit
 
 - Inclusion of the Beefy Depressor mount as the default.
 
+## Files to print
+**LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/LDO/LDO.zip).
+
+**Other users, print these files**
+- [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor_mount.stl)
+- [beefy_depressor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor.stl)
+- [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
+- Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2/README.md) (Recommended) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder/README.md)
+- [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner/README.md) - pick the set (front+rear) specific to your Printhead/Hotend
+- [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
+
+## Print settings
+All files are to be printed using 'VORON Standard' parts settings/filaments:
+
+| | |
+| - | - |
+| **3D Printing Process:** Fused Deposition Modeling (FDM) | **Infill Type:** Grid, Gyroid, Honeycomb, Triangle or Cubic |
+| **Material:** ABS/ASA | **Infill Percentage:** 40% |
+| **Layer Height:** 0.2mm | **Wall Count:** 4 |
+| **Extrusion width:** Forced 0.4mm | **Solid Top/Bottom Layers:** 5 |
 
 ## Bill of Materials
 BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hardware necessary for FilamATrix, but below is the BOM needed to build it.
@@ -49,35 +69,12 @@ M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendatio
 PTFE Wire | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here. |
 Skittles | User-dependent | Optional, but in case you feel like being a completionist while progressing through the manual. | [Amazon](https://www.amazon.com/Skittles-Original-Candy-Ounce-Jar/dp/B08CS147FX)
 
-
-## Print settings
-All files are to be printed using 'VORON Standard' parts settings/filaments:
-
-| | |
-| - | - |
-| **3D Printing Process:** Fused Deposition Modeling (FDM) | **Infill Type:** Grid, Gyroid, Honeycomb, Triangle or Cubic |
-| **Material:** ABS/ASA | **Infill Percentage:** 40% |
-| **Layer Height:** 0.2mm | **Wall Count:** 4 |
-| **Extrusion width:** Forced 0.4mm | **Solid Top/Bottom Layers:** 5 |
-
-## Files to print
-**LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/LDO).  
-
-**Other users, print these files**
-- [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor_mount.stl)
-- [beefy_depressor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor.stl)
-- [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
-- Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2) (Recommended) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder)
-- [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner) - pick the set (front+rear) specific to your Printhead/Hotend
-- [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
-
 ## Assembly and Installation
 Please review this [interactive manual](https://armoredturtle.xyz/manual.html?manual=filamatrix) for assembly and installation instructions of FilamATrix.
 
 One thing to note is that the stock Stealthburner uses M3x25 SHCS for the upper screws securing the shroud to the extruder. The left screw need to be an **M3x20** SHCS on FilamATrix to allow the cutting arm to fully depress.
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/sb_left_screw.png" width=40%>
-
 
 ## Preparing and mounting of the Beefy Depressor
 
