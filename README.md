@@ -33,6 +33,9 @@ The print files for FilamATrix have been modified from the original projects wit
 - [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner/README.md) - pick the set (front+rear) specific to your Printhead/Hotend
 - [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
 
+**All files**
+All files are located on this GitHub in the [STLs folder](https://github.com/thunderkeys/FilamATrix/blob/main/STLs)
+
 ## Print settings
 All files are to be printed using 'VORON Standard' parts settings/filaments:
 
