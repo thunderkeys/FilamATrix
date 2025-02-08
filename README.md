@@ -25,7 +25,7 @@ The print files for FilamATrix have been modified from the original projects wit
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/LDO/LDO.zip).
 
-**Other users, print these files**
+**Non-LDO kits/Other users, print these files**
 - [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor_mount.stl)
 - [beefy_depressor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor.stl)
 - [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
