@@ -87,7 +87,7 @@ Attach the assembled mount to the gantry using M3 screws (place M3 washers betwe
 
 Once installed, adjust the height of the pin on the mount and the depth of the screw so it will depress the cutting arm when the toolhead hits against it (going from right to left).
 
-Depending on your printer you may find it more advantageous to mount the beef depressor at the rear, or at the front.  See below for example mounting locations on an example Voron 2.4 printer gantry.
+Depending on your printer you may find it more advantageous to mount the beefy depressor at the rear, or at the front.  See below for example mounting locations on an example Voron 2.4 printer gantry.
 
 ### Rear
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear1.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/gantry_mount_rear2.png" width=40%>
