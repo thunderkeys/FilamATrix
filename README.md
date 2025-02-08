@@ -98,14 +98,14 @@ Depending on your printer you may find it more advantageous to mount the beef de
 ## AFC Configuration
 
 Now that FilamATrix is installed, we need to configure the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) for the locations to actuate the cutter arm.
+For further guidance you can also see the BoxTurtle [Initial Startup](https://github.com/ArmoredTurtle/BoxTurtle/blob/initial_startup/Initial_Startup.md) guide.
 
 - Home all printer axes (e.g., using G28)
 - Use mainsail/fluidd/klipperscreen/etc controls to jog the toolhead near the cutting pin.  This will likely be near X minimum (e.g. X=15-20) and Y maximum if installed in the default location.
 - Move the toolhead in 1mm increments until you are just about to depress the pin.  Make note of these coordinates.
 - Continue to move the toolhead in 1mm increments until the cutting arm is fully depressed. Make a note of the fully depressed coordinates.
 - Ensure ``tool_cut: true`` is set in ``AFC/AFC.cfg`` (it is also recommended to enable the park, kick, poop and wipe macros)
-- Update ``AFC/AFC_Macro_Vars.cfg`` with these values as per the comments in the ``_AFC_CUT_TIP_VARS`` section.
-
+- Update ``AFC/AFC_Macro_Vars.cfg`` with these values as per the comments in the ``_AFC_CUT_TIP_VARS`` section.  
 
 ## Acknowledgements
 - [Wondro](https://github.com/Wondro) and [ArmoredTurtle](https://github.com/ArmoredTurtle/) for the modified CAD for FilamATrix
