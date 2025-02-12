@@ -16,7 +16,7 @@ If this is a new build, you will also need the rest of the Stealthburner parts.
 All other Stealthburner files should be obtained from the main [VORON Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner/), or via the links below:
 
 - [stealthburner_main_body.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stock/%5Ba%5D_stealthburner_main_body.stl) - if using a regular length hotend
-- [\[c\]\_stelathburner_LED_diffuser.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stock/%5Bc%5D_stealthburner_LED_diffuser.stl)
+- [\[c\]\_stealthburner_LED_diffuser.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stock/%5Bc%5D_stealthburner_LED_diffuser.stl)
 - [\[o\]\_stealthburner_LED_carrier.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stock/%5Bo%5D_stealthburner_LED_carrier.stl)
 - [\[o\]\_stealthburner_LED_diffuser_mask.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Stealthburner/stock/%5Bo%5D_stealthburner_LED_diffuser_mask.stl)
 
