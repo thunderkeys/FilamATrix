@@ -18,5 +18,5 @@ If using cable chains, ONE of:
 - [cable_chain_2_hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/stock/cable_chain_2_hole.stl)
 - [cable_chain_3_hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/stock/cable_chain_3_hole.stl)
 
-If your Galileo2 kit did not come with a metal shim, you canh print one:
+If your Galileo2 kit did not come with a metal shim, you can print one:
 - [printed_shim.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/stock/printed_shim.stl)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_g2e.png" width=40%>
 
-FilamATrix is a Stealthburner toolhead filament cutting mod created specifically for the ArmoredTurtle [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) project.  It is an adaptation and cleanup of the [Filametrix](https://github.com/sorted01/Filametrix) and [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) mods. Note the slightly different spelling change - all other documentation within this respository refer to this specific modification.
+FilamATrix is a Stealthburner toolhead filament cutting mod created specifically for the ArmoredTurtle [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) project.  It is an adaptation and cleanup of the [Filametrix](https://github.com/sorted01/Filametrix) and [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) mods. Note the slightly different spelling change - all other documentation within this repository refer to this specific modification.
 
 However, use of BoxTurtle/AFC are not required - this mod can be used anywhere the upstream Filametrix/G2E-Filametrix are).
 
