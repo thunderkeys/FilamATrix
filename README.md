@@ -51,6 +51,7 @@ BoxTurtle kits provided by LDO or Isik's Tech come with all of the physical hard
 
  Item    | Quantity | Notes | Source
  ----   | -------- | ------ | -----
+ECAS04 Bowden Collet | 1 | | [Amazon](https://www.amazon.com/Pneumatic-Connector-Extruder-Printer-Accessories/dp/B0CFYRGXS3) \| [AliExpress](https://www.aliexpress.us/item/3256805436525602.html)
 M3 hex nut | 1 | DIN934 | [McMaster-Carr](https://www.mcmaster.com/90591A250/) \| [AliExpress](https://www.aliexpress.us/item/2255800690659531.html)
 M3 washer | 2 | 0.5mm thickness | [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/287-3x6x05mm-shim-ring-washer-pack-of-50-din988-1634423217623.html)
 M3x16 BHCS | 1 | | [AliExpress](https://www.aliexpress.us/item/2251832624537980.html)
