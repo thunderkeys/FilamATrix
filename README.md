@@ -116,3 +116,4 @@ If you are using other software, please refer to that project for the correct co
 - [IRTrail](https://github.com/IRTrail) for the [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) project (now archived as read-only, as of 2024-12-12).
 - [VORON Design](https://www.vorondesign.com) for Stealthburner and Clockwork2
 - [JaredC01](https://github.com/JaredC01) for Galileo2
+- ChainsDD for the G2E-FilamATrix files to support EBB USB toolhead boards
