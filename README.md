@@ -22,6 +22,21 @@ The print files for FilamATrix have been modified from the original projects wit
 
 - Inclusion of the Beefy Depressor mount as the default.
 
+## Supported hotends
+The following hotends are natively supported on this repository:
+- Revo Voron
+- Dragon HF
+- Dragon UHF
+- Dragon UHF mini
+- Rapido HF v1/v2
+- Rapido UHF v1/v2
+- Bambulab X1C
+
+The following are user-contributed hotend mounts, please direct any issues with them to their respective creators:
+- [TZ V6 2.0 by Adam Storm on Printables](https://www.printables.com/model/1170130-filamatrix-tz-v6-20-hotend-mount)
+
+If you would like to have a hotend mount that you have created added to the above lists, please contact thunderkeys on the ArmoredTurtle discord in the toolheads channel.
+
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/LDO/LDO.zip).
 
