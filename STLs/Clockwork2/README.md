@@ -12,6 +12,7 @@ If this is a new build, you will also need to print these upstream Clockwork2 fi
 - [\[a\]\_guidler_a.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/%5Ba%5D_guidler_a.stl)
 - [\[a\]\_guidler_b.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/%5Ba%5D_guidler_b.stl)
 - [\[a\]\_latch_shuttle.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/%5Ba%5D_latch_shuttle.stl)
+- [\[a\]\_pcb_spacer.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/%5Ba%5D_pcb_spacer.stl)
 - [motor_plate.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/motor_plate.stl)
 - [chain_anchor_2hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/chain_anchor_2hole.stl) or [chain_anchor_3hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/chain_anchor_3hole.stl) if using cable chains
 
