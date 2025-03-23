@@ -113,7 +113,7 @@ Depending on your printer you may find it more advantageous to mount the beefy d
 ## AFC Configuration
 
 Now that FilamATrix is installed, configure your software to leverage it.  If you are using the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On),you'll need to configure the locations to actuate the cutter arm.
-For further guidance you can also see the BoxTurtle [Initial Startup](https://github.com/ArmoredTurtle/BoxTurtle/blob/initial_startup/Initial_Startup.md) guide.
+For further guidance you can also see the BoxTurtle [Initial Startup](https://github.com/ArmoredTurtle/BoxTurtle/blob/main/Initial_Startup.md) guide.
 
 If you are using other software, please refer to that project for the correct configuration.
 
