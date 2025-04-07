@@ -16,6 +16,6 @@ If this is a new build, you will also need to print these upstream Clockwork2 fi
 - [motor_plate.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/motor_plate.stl)
 - [chain_anchor_2hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/chain_anchor_2hole.stl) or [chain_anchor_3hole.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/chain_anchor_3hole.stl) if using cable chains
 
-If you are using an older, pre-release version of Clockwork 2 you will also need to print a new [motor_plate.stl](https://github.com/htunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/motor_plate.stl).  In the image below, pre-release is in red, current release is green. See the circled areas for the main change areas to inspect.
+If you are using an older, pre-release version of Clockwork 2 you will also need to print a new [motor_plate.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/stock/motor_plate.stl).  In the image below, pre-release is in red, current release is green. See the circled areas for the main change areas to inspect.
 
 ![](https://github.com/thunderkeys/FilamATrix/blob/main/images/cw2_correct_motor_plate.png)
