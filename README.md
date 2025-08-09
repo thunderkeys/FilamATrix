@@ -35,7 +35,7 @@ The following hotends are natively supported on this repository:
 The following are user-contributed hotend mounts, please direct any issues with them to their respective creators:
 - [TZ V6 2.0 by Adam Storm on Printables](https://www.printables.com/model/1170130-filamatrix-tz-v6-20-hotend-mount)
 
-If you would like to have a hotend mount that you have created added to the above lists, please contact thunderkeys on the ArmoredTurtle discord in the toolheads channel.
+If you would like to have a hotend mount that you have created added to the above lists, please contact thunderkeys on the [ArmoredTurtle discord](https://discord.gg/armoredturtle) in the toolheads channel.
 
 ## Files to print
 **LDO Kit users** - If you are running a recent RevD LDO kit with the stock Revo Voron hotend, print [these files](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/LDO/LDO.zip).
