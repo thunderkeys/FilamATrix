@@ -3,6 +3,7 @@
 Print one each of:
 
 - [\[a\]\_cutting_arm_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/%5Ba%5D_cutting_arm_g2e.stl)
+- [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/%5Ba%5D_knife_holder.stl) OR [\[a\]\_knife_holder_olfa.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/%5Ba%5D_knife_holder_olfa.stl)- don't cut the bleedy bits of your fingers on the sharp blades
 - [front_body_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/front_body_g2e.stl)
 - [rear_body_g2e.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/galileo2_extruder/rear_body_g2e.stl)
 
