@@ -2,9 +2,9 @@
 
 Print one each of:
 
-- [\[a\]\_cutting_arm_clockwork2.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_clockwork2.stl) OR [\[a\]\_cutting_arm_short_clockwork2.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_short_clockwork2.stl)
+- [\[a\]\_cutting_arm_clockwork2.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/%5Ba%5D_cutting_arm_clockwork2.stl)
 - [\[a\]\_latch_ecas.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/%5Ba%5D_latch_ecas.stl)
-- [main_body_clockwork2_single_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_single_switch.stl) (recommended for AFC) OR [main_body_clockwork2_dual_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_dual_switch.stl) (recommended for HappyHare users)
+- [main_body_clockwork2_single_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_single_switch.stl) (recommended for AFC) OR [main_body_clockwork2_dual_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_dual_switch.stl) (recommended for HappyHare users) OR [main_body_clockwork2_no_switch.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/main_body_clockwork2_no_switch.stl) (no toolhead sensor, uses buffer ramming as sensor)
 - [cable_cover_pcb_w_sensor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/cable_cover_pcb_w_sensor.stl) OR [cable_cover_pcb.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/Clockwork2/cable_cover_pcb.stl)- the FilamATrix CW2 main body has more room for RP2040 SBB board plugs, and as such requires a newer cable cover mount.
 
 If this is a new build, you will also need to print these upstream Clockwork2 files, which can be obtained from the [VORON Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner/) or via links below:
