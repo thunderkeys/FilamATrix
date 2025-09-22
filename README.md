@@ -132,3 +132,4 @@ If you are using other software, please refer to that project for the correct co
 - [VORON Design](https://www.vorondesign.com) for Stealthburner and Clockwork2
 - [JaredC01](https://github.com/JaredC01) for Galileo2
 - ChainsDD for the G2E-FilamATrix files to support EBB USB toolhead boards
+- [KinematicDigit](https://github.com/kinematicdigit) for the idea on housing full length blades in the knife holder (originally seen with [JabberWocky](https://github.com/kinematicdigit/Jabberwocky).
