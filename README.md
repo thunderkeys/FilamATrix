@@ -43,7 +43,6 @@ If you would like to have a hotend mount that you have created added to the abov
 **Non-LDO kits/Other users, print these files**
 - [beefy_depressor_mount.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor_mount.stl)
 - [beefy_depressor.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/beefy_depressor.stl)
-- [\[a\]\_knife_holder.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/%5Ba%5D_knife_holder.stl)
 - Respective parts for your extruder - [Clockwork2](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Clockwork2/README.md) (Recommended) or [Galileo2_Extruder](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/galileo2_extruder/README.md)
 - [Stealthburner modified parts](https://github.com/thunderkeys/FilamATrix/tree/main/STLs/Stealthburner/README.md) - pick the set (front+rear) specific to your Printhead/Hotend
 - [cutting jig for your hotend](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/README.md) - use a razor blade to cut a section of 2mm ID PTFE to length for your hotend.
