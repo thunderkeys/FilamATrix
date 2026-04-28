@@ -5,7 +5,7 @@ Print the cutting jig specific to your hotend, which will allow for proper lengt
 - [dragon_hf_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/dragon_hf_ptfe_jig.stl) (12.8mm)
 - [dragon_uhf_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/dragon_uhf_ptfe_jig.stl) (4.6mm)
 - [rapido_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/rapido_ptfe_jig.stl) (18mm)
-- [revo_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/revo_ptfe_jig) (15.8mm)
+- [revo_ptfe_jig.stl](https://github.com/thunderkeys/FilamATrix/blob/main/STLs/cutting_jigs/revo_ptfe_jig.stl) (15.8mm)
 
 ## Blade snapping jigs
 The following jigs can be used to help snap the OLFA KB4-F/5 or Hobby #4 blades to length, if using G2E or the legacy CW2 parts.  Current CW2 files do not require the blade to be trimmed and can be installed as-is.

@@ -2,19 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_cw2.png" width=40%> <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/filamatrix_g2e.png" width=40%>
 
-FilamATrix is a Stealthburner toolhead filament cutting mod created specifically for the ArmoredTurtle [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) project.  It is an adaptation and cleanup of the [Filametrix](https://github.com/sorted01/Filametrix) and [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) mods. Note the slightly different spelling change - all other documentation within this repository refer to this specific modification.
+FilamATrix is a Stealthburner toolhead filament cutting mod created specifically for the ArmoredTurtle [BoxTurtle](https://github.com/ArmoredTurtle/BoxTurtle) project.  It is an adaptation and cleanup of the [Filametrix](https://github.com/sorted01/Filametrix) and [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) mods. Note the slightly different spelling change - all other documentation within this repository refers to this specific modification.
 
-However, use of BoxTurtle/AFC are not required - this mod can be used anywhere the upstream Filametrix/G2E-Filametrix are).
+However, use of BoxTurtle/AFC are not required - this mod can be used anywhere the upstream Filametrix/G2E-Filametrix are.
 
 FilamATrix modifies the [VORON Design](https://www.vorondesign.com) [StealthBurner hotend and Clockwork 2 Extruder](https://github.com/VoronDesign/Voron-Stealthburner/) or [Galileo 2 Extruder](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder) to support a kinematic-actuated cutting blade for cleaner, more reliable automated filament changes that also eliminates the need for tip forming.
 
 FilamATrix consolidates the CAD for Filametrix and G2E-Filametrix into a single file and provides a reorganized repository with a clear structure of what files are needed to print.  While both extruders are provided as an option, our recommendation is to use Clockwork 2 - we find users have had the most success with it. The assembly instructions and manual only cover Clockwork 2.
 
-Clockwork 2 supports two toolhead sensors, but some users may only be able to support one due to limited GPIO on the toolhead, so our default recommendation is just the pre-extruder sensor.
+Clockwork 2 supports two toolhead sensors, but some users may only be able to support one due to limited GPIO on the toolhead. With current AFC software, our default recommendation is to not use physical toolhead sensors and instead use the buffer as a [ram sensor](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/installation/buffer-ram-sensor.html).
 
 The print files for FilamATrix have been modified from the original projects with the following changes:
 
-- Hotend mounts/Printheads now use M3 threaded heat insert (instead of a M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
+- Hotend mounts/Printheads now use an M3 threaded heat insert (instead of an M3 nut) for simpler installation and maintenance.  Many thanks to [hartk](https://github.com/hartk1213) for this idea!<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/m3_heat_insert_hotend.png" width=50%>
 
 - On Clockwork 2, there is an increased depth for the PTFE tubing to better help guide the filament towards the extruder gears and make insertion less position dependent.<br><img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/cw2_section_analysis.png" width=50%>
 
@@ -79,23 +79,23 @@ M3x10, M3x12 or M3x16 SHCS | 2 | 10mm - no backers, 12mm - titanium backers, 16m
 M3 roll-in T-Nut | 2 | | [AliExpress](https://www.aliexpress.us/item/2251832618848960.html)
 M2.5x16 SHCS | 1 |  | [AliExpress](https://www.aliexpress.us/item/2251832747871730.html)
 0.5mm x 4mm x 25mm coil spring | 1 | A spring from a [common ballpoint pen](https://www.amazon.com/U-S-Government-Pen-Medium-Point/dp/B0055KSO3A) can also work | [Amazon](https://www.amazon.com/uxcell-Compression-Spring-Stainless-Length/dp/B0CGZRR4JT) \| [AliExpress](https://www.aliexpress.us/item/3256803316195677.html)
-Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | This will need to be trimmed to length (approximately 26mm) after purchase | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
-D2F limit switch | 1-2 | One per extruder sensor - default recommendation is one | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
-5.5mm steel ball-bearing | 1-2 | One per extruder sensor - default recommendation is one |[Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
-M2x10 Self-tapping screw | 2-4 | Two per extruder sensor - default recommendation is two screws (one sensor) |[Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC)
-PTFE Wire | 24-26 gauge | Wire is required connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here. |
+Type 4 metal hobby blade or OLFA KB4-F/5 8mm chisel blade | 1 | If using the legacy blade holder or G2E), this *may* need to be trimmed to length (approximately 26mm) after purchase. Some suppliers pre-trim the blade (Formbot, West3D Berserker Knifr) | [Amazon Hobby 4](https://www.amazon.com/HARFINGTON-Replacement-Precision-Refills-Scrapbooking/dp/B0CBLRNXSV) \| [OLFA Website](https://olfa.com/products/olfa-kb4-f-5-chisel-art-blades-5pk#shop) \| [Amazon OLFA](https://www.amazon.com/OLFA-9166-KB4-F-Chisel-5-Pack/dp/B000BNXOOU) \| [AliExpress OLFA](https://www.aliexpress.us/item/3256805333623451.html)
+D2F limit switch | 1-2 | One per extruder sensor (default with AFC is no physical sensor) | [DigiKey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F/83270)
+5.5mm steel ball-bearing | 1-2 | One per extruder sensor (default with AFC is no physical sensor) | [Amazon](https://www.amazon.com/uxcell-50pcs-Stainless-Bearing-Precision/dp/B09DSH1GL6)
+M2x10 Self-tapping screw | 2-4 | Two per extruder sensor | [Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC)
+PTFE Wire | 24-26 gauge | Wire is required to connect the toolhead sensors to your printer. This is extremely build dependent and specifics are not covered here. |
 Skittles | User-dependent | Optional, but in case you feel like being a completionist while progressing through the manual. | [Amazon](https://www.amazon.com/Skittles-Original-Candy-Ounce-Jar/dp/B08CS147FX)
 
 ## Assembly and Installation
 Please review this [interactive manual](https://armoredturtle.xyz/manual.html?manual=filamatrix) for assembly and installation instructions of FilamATrix.
 
-One thing to note is that the stock Stealthburner uses M3x25 SHCS for the upper screws securing the shroud to the extruder. The left screw need to be an **M3x20** SHCS on FilamATrix to allow the cutting arm to fully depress.
+One thing to note is that the stock Stealthburner uses M3x25 SHCS for the upper screws securing the shroud to the extruder. The left screw needs to be an **M3x20** SHCS on FilamATrix to allow the cutting arm to fully depress.
 
 <img src="https://raw.githubusercontent.com/thunderkeys/FilamATrix/refs/heads/main/images/sb_left_screw.png" width=40%>
 
 ## Preparing and mounting of the Beefy Depressor
 
-Install an M3 heatset on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x16 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use the Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
+Install M3 heatsets on both sides of the beefy depressor pin. Attach the pin to the mount using the M3x16 FHCS. Thread the M3 hexnut onto the M3x16 BHCS and install that on the end facing into the printer.  Use the hexnut to 'lock' the screw into position, you may wish to use Loctite or VC-3 here on this screw. Careful not to get Loctite on any ABS/ASA printed parts!
 
 Attach the assembled mount to the gantry using M3 screws (place M3 washers between the screws and the printed part).  The length of the screw will likely be printer-dependent, see above BOM for suggested sizes.
 
@@ -111,7 +111,7 @@ Depending on your printer you may find it more advantageous to mount the beefy d
 
 ## AFC Configuration
 
-Now that FilamATrix is installed, configure your software to leverage it.  If you are using the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On),you'll need to configure the locations to actuate the cutter arm.
+Now that FilamATrix is installed, configure your software to leverage it.  If you are using the [AFC Klipper Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On), you'll need to configure the locations to actuate the cutter arm.
 For further guidance you can also see the BoxTurtle [Initial Startup](https://github.com/ArmoredTurtle/BoxTurtle/blob/main/Initial_Startup.md) guide.
 
 If you are using other software, please refer to that project for the correct configuration.
@@ -126,9 +126,9 @@ If you are using other software, please refer to that project for the correct co
 ## Acknowledgements
 - [Wondro](https://github.com/Wondro) and [ArmoredTurtle](https://github.com/ArmoredTurtle/) for the modified CAD for FilamATrix
 - [hartk](https://github.com/hartk1213) for the idea to use an M3 threaded heat insert for the hotend mount
-- [sorted01](https://github.com/sorted01) for the original [Filametrix](https://github.com/sorted01/Filametrix) project - you can [donate here](https://www.paypal.com/paypalme/sorted01) to him if interested
+- [sorted01](https://github.com/sorted01) for the original [Filametrix](https://github.com/sorted01/Filametrix) project - you can [donate here](https://www.paypal.com/paypalme/sorted01) if interested
 - [IRTrail](https://github.com/IRTrail) for the [G2E-Filametrix](https://github.com/IRTrail/G2E-Filametrix) project (now archived as read-only, as of 2024-12-12).
 - [VORON Design](https://www.vorondesign.com) for Stealthburner and Clockwork2
 - [JaredC01](https://github.com/JaredC01) for Galileo2
 - ChainsDD for the G2E-FilamATrix files to support EBB USB toolhead boards
-- [KinematicDigit](https://github.com/kinematicdigit) for the idea on housing full length blades in the knife holder (originally seen with [JabberWocky](https://github.com/kinematicdigit/Jabberwocky).
+- [KinematicDigit](https://github.com/kinematicdigit) for the idea on housing full length blades in the knife holder (originally seen with [JabberWocky](https://github.com/kinematicdigit/Jabberwocky)).
